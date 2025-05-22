@@ -1,0 +1,13 @@
+# Ignore data and scripts folders
+Data/
+scripts/
+
+# Ignore R and Python-related cache and history
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
